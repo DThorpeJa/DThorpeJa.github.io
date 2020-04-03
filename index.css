@@ -35,7 +35,7 @@
 	width: 382px;
 	height: 236px;
 	left: 16px;
-	top: 2668px;
+	top: 2680px;
 	overflow: visible;
 }
 .Image_2_Class {
@@ -49,7 +49,7 @@
 .How_is_diff_Class {
 	position: absolute;
 	width: 378px;
-	height: 321px;
+	height: 347px;
 	left: 18px;
 	top: 2306px;
 	overflow: visible;
@@ -58,9 +58,9 @@
 	position: absolute;
 	left: 6px;
 	top: 76px;
-	overflow: hidden;
+	overflow: visible;
 	width: 367px;
-	height: 245px;
+	height: 271px;
 	text-align: center;
 	font-family: Segoe UI;
 	font-style: normal;
